@@ -1,0 +1,64 @@
+.jj{
+  text-align:center;
+  padding:5px;
+  border:3px;
+  gap:15px;
+  display: flex;
+  font-size:35px;
+  justify-content:center;
+  transition: transform 0.3s ease-in-out;
+}
+.jj:hover{
+ transform: scale(1.1);
+}
+.ji{
+  background-color: pink;
+  border:3px;
+  width:100%;    
+}
+.hh{
+  background-color:#222222;
+  font-size:25px;
+}
+  .ii{
+  color:white;
+}
+.ll{
+  margin:10px;
+  background-color: red;
+}
+.pp{
+  color:white;
+  border:3px;
+}
+.tt{
+  display: flex;
+  flex-direction:row-reverse;
+  margin: 2px;
+  gap:4px;
+}
+.qq{
+  color:white;
+  margin:15px;
+}
+.oo{
+  margin:2px;
+  border:1px;
+  color: white;
+}
+
+.ol{
+  display:flex;
+  margin:2px;
+  background-color:#222222;  
+}
+.pp{
+  text-align: center;
+}
+.jl{
+  background-color:yellow;
+  width: 100%px;
+  padding: 5px;
+  margin:1px;
+}
+
