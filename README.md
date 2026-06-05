@@ -9,10 +9,10 @@
     <h1 class="jl">Swear</h1>
     <nav class="ji">
       <ul class="jj">
-        <li class="jj"><a href="#about" target="_blank">About</a></li>
-        <li class="jj"><a href="#about" target="_blank">Update</a></li>
-        <li class="jj"><a href="#info" target="_blank">Info</a></li>
-        <li class="jj"><a href="#blog" target="_blank">Blog</a></li>
+        <li class="jj"><a href="#about">About</a></li>
+        <li class="jj"><a href="#update">Update</a></li>
+        <li class="jj"><a href="#info">Info</a></li>
+        <li class="jj"><a href="#blog">Blog</a></li>
       </ul>
     </nav>
     </header>
@@ -33,11 +33,7 @@
 
        <figure class="qr">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtQMdDcyLpgCI1c9RB5Wj7IK0Q6olA-ZE7YAKAXwPASdj837htKJ_IXG_ecTvUWIY5ykNRg&s" alt="galaxy">
-        <figcaption class=qr>Live photo</figcaption>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtQMdDcyLpgCI1c9RB5Wj7IK0Q6olA-ZE7YAKAXwPASdj837htKJ_IXG_ecTvUWIY5ykNRg&s" alt="galaxy">
-         <figcaption>Live photo</figcaption>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtQMdDcyLpgCI1c9RB5Wj7IK0Q6olA-ZE7YAKAXwPASdj837htKJ_IXG_ecTvUWIY5ykNRg&s" alt="galaxy">
-        <figcaption>Live photo</figcaption>
+        <figcaption class=qr>Galaxy</figcaption>
       </figure>
     </section>
     </main>
