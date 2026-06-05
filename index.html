@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTf-8">
+        <title>Practice</title>
+    </head>
+    <body>
+        <header>
+            <h1>Survey Form</h1>
+        </header>
+        <main>
+        <form>
+            <fieldset>
+                <legend>Fieldset1</legend>
+                <label for="name">Name:</label>
+                <input type="text" name="name" id="name" required placeholder="e.g,mcdonald"> 
+                <label for="address">Address:</label>
+                <input type="text" name="address" id="address" required>
+                <label for="email">Email:</label>
+                <input type="text" name="email" id="email" required placeholder="email@.com">
+                <label for="age">Age:</label>
+                <input type="number" name="age" id="age" min="1" max="100">
+            </fieldset>
+            <fieldset>
+                <legend>Fieldset2</legend>
+                <label>Country:</label>
+                <select>
+                    <option>Phillipines</option>
+                    <option>Japan</option>
+                    <option>America</option>
+                    <option>Canada</option>
+                    <option>Thailand</option>
+                    <option>Switzerland</option>
+                    <option>Monggolia</option>
+                    <option>South Korea</option>
+                </select>
+                <input type="radio" name="gender" id="gender">
+                <label for="gender">Female</label>
+                <input type="radio" name="gender" id="gender">
+                <label for="gender">Male</label>
+                <select>
+                <label>Experience</label>
+                <option>Excellent</option>
+                <option>Very Good</option>
+                <option>Good</option>
+                <option>Bad</option>
+                <option>Very Bad</option>
+                </select>
+            </fieldset>
+            <textarea cols="97" rows="10" minlength="10" maxlength="100" placeholder="Comment goes here..."></textarea>
+        </form>
+        </main>
+    </body>
+</html>
