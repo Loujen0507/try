@@ -9,10 +9,10 @@
     <h1 class="jl">Swear</h1>
     <nav class="ji">
       <ul class="jj">
-        <li class="jj"><a href="#about">About</a></li>
-        <li class="jj"><a href="#update">Update</a></li>
-        <li class="jj"><a href="#info">Info</a></li>
-        <li class="jj"><a href="#blog">Blog</a></li>
+         <li class="jj"><a href="https://www.youtube.com" target="_blank">About</a></li>
+        <li class="jj"><a href="https://www.google.com" target="_blank">Update</a></li>
+        <li class="jj"><a href="https://www.wikipedia.com" target="_blank">Info</a></li>
+        <li class="jj"><a href="https://www.github.com" target="_blank">Blog</a></li>
       </ul>
     </nav>
     </header>
